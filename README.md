@@ -8,9 +8,9 @@
 
 ### 🧑‍💻 Sobre mí
 
-- 🔭 Actualmente estoy [en qué trabajas o estudias ahora · ej. "cursando 2º de Ingeniería Informática" o "trabajando en Insurceo"]
-- 🌱 Aprendiendo y profundizando en [lo que estés tocando ahora · ej. desarrollo web, bases de datos, etc.]
-- 💡 Me interesa [tus áreas: backend, sistemas, datos, lo que sea]
+- 🔭 Actualmente estoy trabajando en Insurceo"
+- 🌱 Aprendiendo y profundizando
+- 💡 Me interesa lo que sea
 - 📫 Contáctame por LinkedIn 👇
 
 ---
